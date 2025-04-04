@@ -20,7 +20,6 @@ const Footer = () => {
         trigger: footerRef.current,
         start: "top 80%",
         toggleActions: "play none none none",
-        markers: true
       },
     });
   }, []);
